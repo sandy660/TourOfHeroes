@@ -22,6 +22,8 @@
         <spring-data-jpa-entity-graph.version>2.0.0</spring-data-jpa-entity-graph.version>
         <springfox-swagger-ui.version>2.9.2</springfox-swagger-ui.version>
         <springfox-swagger2.version>2.9.2</springfox-swagger2.version>
+        <sonar.organization>sandy660</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <dependencies>
